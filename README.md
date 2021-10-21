@@ -6,7 +6,7 @@
 
 <hr />
 
-<h3>I'm a Full-Stack Web Developer. I have knowledge of technologies such as JavaScript, Node.Js, React, Redux, Express, SQL and more!</h3>
+<h3>I'm a Full-Stack Web Developer from Argentina. I have knowledge of technologies such as JavaScript, Node.Js, React, Redux, Express, SQL and more!</h3>
 <h3>I want to learn new technologies and web development tools to be able to connect with the whole world and continue growing within the field.</h3>
 
 <hr />

@@ -1,3 +1,5 @@
+<img src='file:///D:/Usuario/Desktop/1632161594261.jpg' alt='' />
+
 <h1 align="center">Hola! Me presento: Mi nombre es Ezequiel Camargo!</h1>
 <h3 align="center">Soy Full-Stack Web Developer. Tengo conocimientos en tecnologías tales como JavaScript, Node.Js, React, Redux, SQL, Express y otras tantas del sector. Quiero aprender nuevas tecnologías y lenguajes de programación así puedo expandir mis horizontes y crecer en sabiduría. Soy muy compañero y trabajador.</h3>
 

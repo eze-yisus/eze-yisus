@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Me presento: Mi nombre es Ezequiel Camargo!</h1>
+<h1 align="center">Hi! 🖖 I'm a Ezequiel Camargo!</h1>
 
 <hr />
 
@@ -6,9 +6,8 @@
 
 <hr />
 
-<h3 align="center">Soy Full-Stack Web Developer. Tengo conocimientos en tecnologías tales como JavaScript, Node.Js, React, Redux, SQL, Express y otras tantas del sector. Quiero aprender nuevas tecnologías y lenguajes de programación así puedo expandir mis horizontes y crecer en sabiduría. Soy muy compañero y trabajador.</h3>
-
-- 💻 Soy estudiante de **Henry Bootcamp para Full-Stack Web Developer**
+<h3>I'm a Full-Stack Web Developer. I have knowledge of technologies such as JavaScript, Node.Js, React, Redux, Express, SQL and more!</h3>
+<h3>I want to learn new technologies and web development tools to be able to connect with the whole world and continue growing within the field.</h3>
 
 <hr />
 
@@ -17,9 +16,9 @@
 
 <hr />
 
-- 📧 Puedes contactarme en **ezequielcamargo009@gmail.com**
+- 📧 You can text me in **ezequielcamargo009@gmail.com**
 
-- 📄 Puedes ver mi actividad en [https://www.linkedin.com/in/ezequiel-camargo-dev/](https://www.linkedin.com/in/ezequiel-camargo-dev/)
+- 📄 You can find me in [https://www.linkedin.com/in/ezequiel-camargo-dev/](https://www.linkedin.com/in/ezequiel-camargo-dev/)
 
 
 <!---

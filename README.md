@@ -2,7 +2,7 @@
 
 <hr />
 
-<img src='https://media-exp1.licdn.com/dms/image/C4E16AQGlMvoaYnFjwQ/profile-displaybackgroundimage-shrink_350_1400/0/1632161594261?e=1640217600&v=beta&t=4Ujuboydg_KpQWLNCoZj8brHlSX6NeNSW1oiwoWQ_vg' alt='' />
+<img src='https://www.useit.es/sites/default/files/styles/panorami/public/2019-12/portada%20i%20mini_0.jpg?itok=qKXKBWw7' alt='image' />
 
 <hr />
 
